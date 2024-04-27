@@ -4,7 +4,7 @@ Ini adalah sebuah permainan sederhana yang dibuat dengan Java Swing, dimana Anda
 
 ### Cara Bermain
 
-1. **Pergerakan Burung**: Pergerakan burung lurus ke atas. Gunakan tombol **SPACE** untuk membuat burung melompat.
+1. **Pergerakan Burung**: Pergerakan burung lurus ke kanan. Gunakan tombol **SPACE** untuk membuat burung melompat.
 2. **Restart**: Jika burung menabrak rintangan atau jatuh, Anda dapat menekan tombol **R** untuk merestart permainan.
 3. **Memulai Game**: Untuk memulai permainan, Anda bisa menekan **S**.
 
